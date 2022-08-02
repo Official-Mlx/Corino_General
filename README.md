@@ -1,5 +1,5 @@
 {
-  "v": "7.0",
+  "v": "6.9",
   "i": "",
   "message": "false",
   "text_message": "",
